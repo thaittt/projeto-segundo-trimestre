@@ -1,0 +1,19 @@
+header {
+    width: 799px; /* largura */
+    height: 500px; /* altura */
+    background-color: blue(240 34% 9%); /* cor de fundo */
+    color: aqua(124, 207, 228); /* cor de text */
+}
+
+.paragrafo_um {
+    color: black;: (255, 105, 180);
+    font-size: 15pt;
+    background-color: rgb(240, 248, 255);
+    font-family: sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+img {
+    width: 20%;
+    height: 20%;
+}
